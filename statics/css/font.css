@@ -1,0 +1,27 @@
+BODY {
+	LINE-HEIGHT: 22px; FONT-FAMILY: Arial; COLOR: #333; FONT-SIZE: 12px
+}
+H1 {
+	COLOR: #f00; FONT-SIZE: 24px
+}
+H2 {
+	TEXT-ALIGN: center; COLOR: #f00; FONT-SIZE: 18px; text-shadow: 0 0 1px #a40000
+}
+H3 {
+	FONT-SIZE: 14px
+}
+A {
+	COLOR: #333; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #007eb4
+}
+UL LI {
+	LIST-STYLE-TYPE: none
+}
+P {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+stonge {
+	FONT-WEIGHT: bold
+}
